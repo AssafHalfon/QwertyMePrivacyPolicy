@@ -8,6 +8,7 @@ IMPORTANT: Please read this document carefully. By downloading, installing, acce
 
 ⸻
 
+
 1. Contracting Parties and App Store Distribution
 
 	1.1 This Agreement is between you and the developer/publisher of QwertyMe (“Developer”, “we”, “us”, or “our”), and not with Apple Inc.
@@ -17,6 +18,7 @@ IMPORTANT: Please read this document carefully. By downloading, installing, acce
 	1.3 Apple Inc. and its subsidiaries are third-party beneficiaries of this Agreement and may enforce this Agreement against you.
 
 
+
 2. License Grant
 
 	2.1 Subject to your compliance with this Agreement, Developer grants you a limited, revocable, non-exclusive, non-transferable, non-sublicensable license to download, install, and use the Application solely for your personal, non-commercial use on Apple-branded devices that you own or control, in accordance with Apple’s usage rules.
@@ -24,21 +26,23 @@ IMPORTANT: Please read this document carefully. By downloading, installing, acce
 	2.2 No ownership rights are transferred to you. All rights not expressly granted are reserved by Developer.
 
 
+
 3. Prohibited Uses and Restrictions
 
 You agree not to:
 
-(a) sell, rent, lease, sublicense, distribute, host, or commercially exploit the Application;
+	a. sell, rent, lease, sublicense, distribute, host, or commercially exploit the Application;
 
-(b) copy, reproduce, or use the Application for purposes other than those expressly permitted by this Agreement;
+	b. copy, reproduce, or use the Application for purposes other than those expressly permitted by this Agreement;
 
-(c) modify, translate, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code or underlying algorithms of the Application;
+	c. modify, translate, reverse engineer, decompile, disassemble, or otherwise attempt to derive the source code or underlying algorithms of the Application;
 
-(d) remove or alter any proprietary notices, trademarks, or branding;
+	d. remove or alter any proprietary notices, trademarks, or branding;
 
-(e) bypass or circumvent security or technical protection measures;
+	e. bypass or circumvent security or technical protection measures;
 
-(f) use the Application in violation of any applicable law or third-party rights.
+	f. use the Application in violation of any applicable law or third-party rights.
+
 
 
 4. Intellectual Property Rights
@@ -46,6 +50,7 @@ You agree not to:
 	4.1 The Application and all related software, design, user interface elements, trademarks, logos, and intellectual property rights are and remain the exclusive property of the Developer or its licensors.
 
 	4.2 The name “QwertyMe” and associated branding may not be used without prior written permission from the Developer.
+
 
 
 5. User Content and Responsibilities
@@ -59,6 +64,7 @@ You agree not to:
 	5.4 Developer does not claim ownership of your User Content.
 
 	5.5 To the extent required for the Application to function on your device, you grant Developer a limited license to process such content locally.
+
 
 
 6. Automated Text Transformation Notice
@@ -76,9 +82,11 @@ Developer shall not be responsible for any errors, data loss, or unintended modi
 Users are responsible for reviewing any modified text before relying on it.
 
 
+
 7. Feedback
 
 If you provide suggestions, feedback, or ideas regarding the Application (“Feedback”), you grant Developer a worldwide, perpetual, irrevocable, royalty-free license to use such Feedback for any purpose without compensation or attribution.
+
 
 
 8. Updates, Changes, and Availability
@@ -88,6 +96,7 @@ If you provide suggestions, feedback, or ideas regarding the Application (“Fee
 	8.2 Certain updates may be required for continued functionality.
 
 	8.3 Developer may modify, suspend, or discontinue any part of the Application at any time, without liability, to the fullest extent permitted by law.
+
 
 
 9. Privacy Policy
@@ -108,6 +117,7 @@ If future versions of the Application collect personal data, the Application wil
 If this Privacy Policy changes materially, updated terms will be provided and may require renewed acceptance where legally required.
 
 
+
 10. Disclaimer of Warranties
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE APPLICATION IS PROVIDED “AS IS” AND “AS AVAILABLE”, WITH ALL FAULTS AND WITHOUT WARRANTIES OF ANY KIND.
@@ -122,6 +132,7 @@ THIS INCLUDES BUT IS NOT LIMITED TO IMPLIED WARRANTIES OF:
 DEVELOPER DOES NOT WARRANT THAT THE APPLICATION WILL BE ERROR-FREE, UNINTERRUPTED, OR SECURE.
 
 
+
 11. Limitation of Liability
 
 TO THE MAXIMUM EXTENT PERMITTED BY LAW, DEVELOPER SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES.
@@ -134,20 +145,22 @@ THIS INCLUDES DAMAGES RELATED TO:
 
 DEVELOPER’S TOTAL LIABILITY SHALL NOT EXCEED THE GREATER OF:
 
-	(A) THE AMOUNT YOU PAID FOR THE APPLICATION DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM; OR
-	(B) TEN UNITED STATES DOLLARS (USD $10).
+	a. THE AMOUNT YOU PAID FOR THE APPLICATION DURING THE TWELVE (12) MONTHS PRECEDING THE CLAIM; OR
+	b. TEN UNITED STATES DOLLARS (USD $10).
 
 Some jurisdictions do not allow certain limitations of liability, so some of the above limitations may not apply to you.
+
 
 
 12. Indemnification
 
 You agree to defend, indemnify, and hold harmless the Developer and its affiliates from any claims, damages, liabilities, losses, or expenses arising from:
 
-(a) your use or misuse of the Application;
-(b) your User Content;
-(c) your violation of this Agreement;
-(d) your violation of applicable law or third-party rights.
+	a. your use or misuse of the Application;
+	b. your User Content;
+	c. your violation of this Agreement;
+	d. your violation of applicable law or third-party rights.
+
 
 
 13. Prohibited Critical Use
@@ -163,9 +176,11 @@ This includes but is not limited to:
 You agree not to rely on the Application for such purposes.
 
 
+
 14. Compliance With Laws and Export
 
 You agree to comply with all applicable export control and trade laws and represent that you are not located in a jurisdiction subject to applicable sanctions.
+
 
 
 15. Termination
@@ -177,6 +192,7 @@ The license granted under this Agreement terminates automatically if you violate
 Upon termination you must cease using the Application and delete all copies.
 
 
+
 16. Governing Law and Venue
 
 This Agreement shall be governed by the laws of the State of Israel.
@@ -184,11 +200,13 @@ This Agreement shall be governed by the laws of the State of Israel.
 Any disputes arising out of this Agreement shall be subject to the exclusive jurisdiction of the competent courts located in Tel Aviv-Yafo, Israel.
 
 
+
 17. Dispute Resolution and Class Action Waiver
 
 To the fullest extent permitted by law, disputes shall be resolved on an individual basis.
 
 You agree not to participate in any class action, consolidated action, or representative proceeding against the Developer.
+
 
 
 18. Apple-Specific Terms
@@ -203,6 +221,7 @@ You agree not to participate in any class action, consolidated action, or repres
 		•	intellectual property infringement claims.
 
 
+
 19. General Terms
 
 	19.1 If any provision of this Agreement is held invalid, the remaining provisions remain in effect.
@@ -214,6 +233,7 @@ You agree not to participate in any class action, consolidated action, or repres
 	19.4 Developer may assign this Agreement without restriction.
 
 	19.5 This Agreement constitutes the entire agreement between you and the Developer regarding the Application.
+
 
 
 20. Contact
